@@ -40,6 +40,14 @@ pip install -r requirements.txt
 
 ----
 
+# Dataset Documentation
+
+Official dataset documentation and variable descriptions can be found here:
+
+https://cunningjames.github.io/completejourney_py/
+
+----
+
 # Making Contributions
 
 ## Git Workflow
