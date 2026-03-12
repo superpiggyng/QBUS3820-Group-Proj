@@ -45,6 +45,7 @@ pip install -r requirements.txt
 Official dataset documentation and variable descriptions can be found here:
 
 https://cunningjames.github.io/completejourney_py/
+https://cunningjames.github.io/completejourney_py/user-guide/datasets/
 
 ----
 
